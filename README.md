@@ -8,6 +8,14 @@ sample input files are also attached in the folder named qns.docx and ans.docx
 
 In the opened window choose input files from the computed and selected the the number of sets needed 
 
+![output1](https://github.com/AswinKalathil/mcq-shuffler/assets/97769498/7a587853-8d5f-4fed-816e-6db766da80a3)
+Select Both input Files 
 
- ![output1](https://github.com/AswinKalathil/mcq-shuffler/assets/97769498/7a587853-8d5f-4fed-816e-6db766da80a3)
-click shuffle button
+![outputin](https://github.com/AswinKalathil/mcq-shuffler/assets/97769498/c171b788-d1c8-40a7-a25d-77dd739ea0d5)
+
+Click shuffle button to produce output files 
+
+![output2](https://github.com/AswinKalathil/mcq-shuffler/assets/97769498/c800cf19-4b53-4cc7-9c13-e9911251071c)
+
+
+The output files are generated in the same working directory
